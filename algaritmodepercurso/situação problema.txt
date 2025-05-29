@@ -1,0 +1,201 @@
+Gerenciamento de Arquivos
+Para organizar os arquivos no Windows, João pode seguir esses passos usando o
+Explorador de Arquivos:
+1. Abrir o Explorador de Arquivos:
+o Pressionar Windows + E para abrir rapidamente o Explorador de
+Arquivos.
+2. Localizar os arquivos:
+o Acessar a Área de Trabalho ou a pasta onde os arquivos estão
+armazenados.
+3. Selecionar os arquivos:
+o Para selecionar todos os arquivos, pressionar Ctrl + A.
+o Para selecionar arquivos específicos, manter pressionada a tecla Ctrl e
+clicar em cada arquivo desejado.
+4. Mover os arquivos para a pasta &quot;Projetos&quot;:
+o Arrastar e soltar os arquivos na pasta Projetos.
+o Ou usar os atalhos de teclado: Ctrl + X (Recortar) e depois Ctrl + V
+(Colar) na pasta de destino.
+5. Criar subpastas (opcional):
+o Se necessário, João pode criar subpastas clicando com o botão direito
+dentro da pasta Projetos, selecionando Novo &gt; Pasta, e dando um nome
+adequado.
+
+Impressora Não Funciona
+Se a impressora não estiver funcionando, Maria pode tentar algumas soluções simples
+antes de se preocupar:
+ Checar se está ligada e conectada
+ Verificar papel e tinta: Sem papel ou com pouca tinta, a impressora pode
+simplesmente se recusar a funcionar.
+ Definir como padrão:
+o Ir no Painel de Controle &gt; Dispositivos e Impressoras.
+o Clicar com o botão direito na impressora e escolher Definir como
+padrão.
+
+ Olhar a fila de impressão:
+o Em Configurações &gt; Dispositivos &gt; Impressoras e Scanners,
+selecionar a impressora e clicar em Abrir fila de impressão.
+o Se houver documentos presos na fila, cancelar tudo e tentar imprimir de
+novo.
+
+ Rodar a solução de problemas: O próprio Windows pode ajudar! Basta ir em
+Configurações &gt; Dispositivos &gt; Impressoras e Scanners, selecionar a
+impressora e clicar em Gerenciar &gt; Executar a solução de problemas.
+ Reinstalar o driver:
+o Se nada funcionar, pode ser um problema no software da impressora.
+Entrar no site do fabricante, baixar o driver mais recente e reinstalá-lo
+pode resolver.
+
+Programa Travado / Não Responde
+Se um programa travou e não fecha, Pedro pode tentar algumas soluções rápidas antes
+de reiniciar o computador:
+ Forçar o fechamento pelo Gerenciador de Tarefas:
+o Pressionar Ctrl + Shift + Esc para abrir o Gerenciador de Tarefas.
+o Procurar o programa na aba Processos.
+o Clicar com o botão direito e selecionar Finalizar Tarefa.
+Se o programa continuar travando com frequência, ele pode tentar:
+ Reiniciar o computador para liberar memória.
+ Atualizar o programa para a versão mais recente, caso haja alguma correção de
+bugs.
+ Verificar o uso de memória e CPU no Gerenciador de Tarefas para ver se o
+computador está sobrecarregado.
+ Reinstalar o programa se o problema persistir.
+
+Atualizações do Sistema
+Se o computador estiver lento e aparecer um aviso de atualizações pendentes, Ana deve
+atualizar o Windows para garantir mais segurança e um melhor desempenho.
+ Como atualizar:
+o Ir em Configurações &gt; Windows Update.
+o Clicar em &quot;Baixar e instalar agora&quot;, se houver atualizações
+disponíveis.
+
+ Por que manter o Windows atualizado?
+o Correção de falhas: Atualizações consertam bugs que podem estar
+deixando o sistema lento ou instável.
+o Mais segurança: Elas protegem o computador contra vírus e ataques
+virtuais.
+o Melhor desempenho: Novas versões costumam trazer melhorias que
+deixam o sistema mais rápido e eficiente.
+
+Depois de atualizar, é bom reiniciar o computador para que as mudanças sejam
+aplicadas corretamente.
+
+Proteção Contra Vírus
+Se Lucas baixou um arquivo e o Windows Defender mostrou um aviso de ameaça, ele
+deve:
+ Não abrir o arquivo e excluir imediatamente caso o Defender indique perigo.
+ Fazer uma verificação completa do sistema: Ir em Configurações &gt;
+Atualização e Segurança &gt; Segurança do Windows &gt; Proteção contra vírus
+e ameaças, e clicar em Verificar agora para garantir que não há mais ameaças.
+ Manter o Windows Defender sempre atualizado para garantir a máxima
+proteção.
+
+Espaço no Disco Cheio
+Se Carla recebeu um aviso de espaço baixo no disco rígido, ela pode:
+ Usar o Liberador de Espaço em Disco:
+o Ir em Configurações &gt; Sistema &gt; Armazenamento, clicar em Liberar
+espaço agora e escolher o que pode ser excluído.
+
+ Desinstalar programas que não usa: Em Configurações &gt; Aplicativos,
+remover apps desnecessários.
+ Mover arquivos grandes para outro lugar: Usar um HD externo ou
+armazenamento na nuvem para liberar espaço.
+ Esvaziar a Lixeira: Muitas vezes, o que é apagado ainda fica na Lixeira
+ocupando espaço.
+
+Conexão com a Internet
+Se o computador de Rafael perdeu a conexão com a internet, ele pode tentar:
+ Reiniciar o roteador e o computador para corrigir possíveis falhas
+temporárias.
+ Verificar se o Wi-Fi está ativado no computador.
+ Usar a solução de problemas de rede: Ir em Configurações &gt; Rede e Internet
+&gt; Solução de Problemas.
+ Reiniciar o adaptador de rede: No Prompt de Comando, digitar netsh
+winsock reset e pressionar Enter para tentar resolver problemas de rede.
+
+Configuração de Contas de Usuário
+Para criar contas separadas para cada aluno em um laboratório de informática, é
+possível usar o recurso Contas de Usuário do Windows.
+ Ir em Configurações &gt; Contas &gt; Família e outros usuários, e criar novas
+contas com permissões específicas para cada aluno.
+
+Recuperação de Arquivos
+Se Fernanda excluiu acidentalmente uma pasta importante, ela pode tentar:
+ Verificar a Lixeira: Se os arquivos estiverem lá, basta restaurá-los.
+ Restaurar versões anteriores: Clicar com o botão direito na pasta onde os
+arquivos estavam e selecionar Restaurar versões anteriores.
+ Usar o Histórico de Arquivos: Se o backup estiver ativado, ela pode restaurar a
+pasta a partir de uma versão anterior em Configurações &gt; Atualização e
+Segurança &gt; Backup.
+
+Programa Padrão
+Carlos pode alterar o navegador padrão para o novo navegador seguindo estes passos:
+ Ir em Configurações &gt; Aplicativos &gt; Aplicativos padrão.
+ Na seção Navegador da Web, clicar no navegador atual e selecionar o novo
+navegador que ele baixou.
+
+Ajuste de Resolução de Tela
+Se o monitor de Beatriz estiver exibindo imagens borradas e ícones muito grandes, ela
+pode ajustar a resolução da tela:
+ Ir em Configurações &gt; Sistema &gt; Tela, e ajustar a Resolução para uma opção
+mais adequada.
+
+Acessibilidade
+Para aumentar o tamanho dos textos no Windows, um aluno pode:
+ Ir em Configurações &gt; Acessibilidade &gt; Tamanho do texto e aumentar o
+tamanho dos textos para facilitar a leitura.
+
+Restauração do Sistema
+Se o computador de Marcos começou a apresentar falhas depois de instalar um
+programa suspeito, ele pode restaurar o sistema a um ponto anterior, sem perder
+arquivos importantes. Para isso, ele deve seguir estes passos:
+1. Acessar a Restauração do Sistema:
+o No menu Iniciar, digitar &quot;Restauração do Sistema&quot; e selecionar a
+opção Criar um ponto de restauração.
+o Na janela que abrir, clicar na aba Proteção do Sistema e depois em
+Restauração do Sistema.
+2. Escolher um ponto de restauração:
+o O sistema vai mostrar uma lista de pontos de restauração disponíveis.
+Escolher um ponto de restauração anterior à instalação do programa
+suspeito.
+o Se Marcos não encontrar um ponto de restauração recente, pode tentar
+usar a opção Mostrar mais pontos de restauração.
+
+3. Confirmar a restauração:
+o Seguir as instruções na tela e confirmar a restauração.
+o O computador será reiniciado e o Windows irá restaurar as configurações
+para aquele ponto de restauração.
+
+Atalho para Abertura Rápida de programa
+Se Sofia precisa abrir o Word com frequência, ela pode criar um atalho para facilitar o
+acesso. Veja como:
+1. Criar um atalho na área de trabalho:
+o Clique com o botão direito no ícone do Word no menu Iniciar ou barra
+de tarefas.
+o Selecione Mais &gt; Abrir local do arquivo.
+o Na pasta que se abrir, clique com o botão direito no ícone do programa e
+selecione Criar atalho.
+o O atalho será criado na área de trabalho, facilitando o acesso.
+2. Fixar o Word no menu Iniciar:
+o Clique com o botão direito no ícone do Word no menu Iniciar e escolha
+Fixar na Iniciar.
+o Agora, o Word aparecerá diretamente no menu Iniciar, pronto para ser
+acessado rapidamente.
+3. Usar atalho de teclado (opcional):
+o Clique com o botão direito no atalho criado na área de trabalho e
+selecione Propriedades.
+o No campo Tecla de atalho, defina uma combinação de teclas (por
+exemplo, Ctrl + Alt + W) para abrir o Word diretamente.
+
+Configuração de Inicialização
+Se o computador de Eduardo está demorando muito para ligar devido a programas
+iniciando automaticamente, ele pode configurar o Windows para iniciar mais rápido:
+1. Abrir o Gerenciador de Tarefas:
+o Pressionar Ctrl + Shift + Esc para abrir o Gerenciador de Tarefas.
+2. Desativar programas desnecessários na inicialização:
+o Ir para a aba Inicializar.
+o Identificar os programas que não são essenciais para a inicialização e
+clicar com o botão direito sobre eles para selecionar Desativar.
+
+3. Reiniciar o computador:
+o Após desmarcar os programas desnecessários, reiniciar o computador
+para que as alterações tenham efeito.
