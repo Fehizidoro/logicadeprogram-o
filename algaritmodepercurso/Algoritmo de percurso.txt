@@ -1,0 +1,45 @@
+Desço a rua de casa e chego até o ponto de ônibus. Entro no ônibus e faço as seguintes
+paradas:
+ Rua da Saudade, Ferraz de Vasconcelos – São Paulo
+ Avenida Benedito Secundino, Ferraz de Vasconcelos – São Paulo
+ Rua Benedito Secundino Leite
+ Avenida Santos Dumont, Ferraz de Vasconcelos
+ Avenida Santos Dumont, Ferraz de Vasconcelos
+ Depois, sigo até a Praça da Bíblia- Vila Andeyara, Ferraz de Vasconcelos - São Paulo e
+atravesso a estação de trem.
+Chego na Avenida Brasil e entro em outro ônibus. Nele, passo pelos seguintes pontos:
+ Rua Bruno Altafim Ferraz de Vasconcelos
+ São Paulo
+ Rua Hermes da Fonseca - Ferraz de Vasconcelos
+ R. Princesa Isabel, 377 - Vila
+ Corrêa - hospital São Marcos
+Depois, caminho 10 minutos até o SESI - Ferraz de Vasconcelos, na Rua Francisco A Zeiler -
+Jardim Juliana
+
+Algoritmo para fazer café tradicional
+ Colocar água para aquecer, sem deixar ferver completamente (o ideal é quando
+começam a surgir as primeiras bolhas).
+ Posicionar o coador sobre a jarra ou xícara. Se for de papel, umedecer com um pouco
+de água quente e descartar essa água para tirar resíduos.
+ Adicionar o pó de café no coador (cerca de 1 colher de sopa para cada 200 ml de
+água).
+ Despejar um pouco de água quente sobre o pó e esperar 30 segundos para fazer a pré-
+infusão, ajudando a liberar os aromas.
+ Continuar despejando o restante da água devagar, em movimentos circulares, para
+extrair melhor o sabor.
+ Aguardar o café terminar de passar completamente pelo coador.
+ Servir na xícara, adicionando açúcar ou leite se desejar.
+
+Algoritmo para fazer bolo de chocolate
+
+ Preaquecer o forno a 180°C.
+ Em uma tigela grande, adicionar 2 xícaras de farinha de trigo, 1 xícara de açúcar, 1
+xícara de chocolate em pó e 1 colher de sopa de fermento. Misturar bem.
+
+ Acrescentar 3 ovos, 1 xícara de leite e ½ xícara de óleo. Mexer até formar uma massa
+lisa e homogênea.
+ Untar uma forma com manteiga e farinha para evitar que o bolo grude.
+ Despejar a massa na forma, espalhando de maneira uniforme.
+ Levar ao forno e assar por 35 a 40 minutos.
+ Fazer o teste do palito, espetar no centro do bolo se sair limpo, o bolo está pronto.
+ Retirar do forno e deixar esfriar por alguns minutos antes de desenformar.
